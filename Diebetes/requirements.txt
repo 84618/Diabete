@@ -2,4 +2,4 @@ pandas
 numpy
 streamlit>=1.30.0
 matplotlib
-
+scikit-learn
